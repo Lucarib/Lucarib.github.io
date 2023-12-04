@@ -1,7 +1,7 @@
 # Portfolio Origmaid 
 
 
-> Trilha Explorer
+> Projeto 
 Projeto construido no curso de HTML e CSS para iniciantes da Origamid. 
 
 [ 🔗 Clique aqui para acessar](https://lucarib.github.io/PortfolioOrigamid.io/)
